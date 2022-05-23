@@ -1,8 +1,9 @@
 @charset 'utf-8';
 
 .box{
-    width: 300px;
-    height: 300px;
+    width: 305px;
+    height: 305px;
     background: darkviolet;
     margin: 0 auto;
+    
 }
